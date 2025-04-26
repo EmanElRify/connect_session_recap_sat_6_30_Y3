@@ -47,7 +47,7 @@ print(f"The randomly selected item is: {random_item}")
 ## <a href = "https://www.geeksforgeeks.org/how-to-get-weighted-random-choice-in-python/">How to get weighted random choice</a>
 
 
-## <a href = "https://docs.google.com/spreadsheets/d/1VdlXUbNZ2ABvnWRD-JTlIn3Pqul5E1T8stvEtWj_cQc/edit?usp=sharing">PROJECT REQUIREMENTS Sat 4</a>
+## <a href = "https://docs.google.com/spreadsheets/d/1WJsQNR8h-R47ifunW_MTkC1k0ULkqAlqCC4-YC0bTkg/edit?usp=sharing">PROJECT REQUIREMENTS SAT 6_30</a>
 
 
 
